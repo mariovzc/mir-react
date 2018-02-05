@@ -6,7 +6,7 @@ class App extends Component {
       <div>
         <h1>Mi primera aplicación</h1>
         <p>
-          Mi primera aplicación
+          Esta es mi primera aplicación en React, está padrísimo!
         </p>
       </div>
     )
